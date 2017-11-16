@@ -14,6 +14,8 @@ https://www.kaggle.com/c/digit-recognizer
 this CNN model was build using TensorFlow
 
 training set performance: 99.6% accuracy
+
+
 test set performance: 97.87% accuracy
 
 
